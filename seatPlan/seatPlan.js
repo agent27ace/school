@@ -1,6 +1,6 @@
-//change variable below to your choice
+	//change variable below to your choice
 let listOfBoys = ['alex', 'paul', 'joshua', 'connor', 'arda'];
-let listOfGirls = ['seina', 'jette', 'elisabet', 'zenia', 'carlotta'];
+let listOfGirls = ['seina', 'jette', 'elisabeth', 'zenia', 'carlotta'];
 const sameGenderTogether = 2;
 //^ change variable above to your choice ^
 
